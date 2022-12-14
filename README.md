@@ -30,9 +30,9 @@ I am looking for a challenging and innovative environment, where I can contribut
 
 ### 🔭 I’m currently working on
 
-<img align="left" width="300px" style="padding-right:10px;" src="https://github.com/Merssith/Merssith/blob/main/calendarApp.png" />
-<img align="left" width="300px" style="padding-right:10px;" src="https://github.com/Merssith/Merssith/blob/main/todolistApp.png" />
-<img align="center" width="300px" style="padding-right:10px;" src="https://github.com/Merssith/Merssith/blob/main/weatherApp.png" />
+<img align="left" width="200px" style="padding-right:10px;" src="https://github.com/Merssith/Merssith/blob/main/calendarApp.png" />
+<img align="left" width="200px" style="padding-right:10px;" src="https://github.com/Merssith/Merssith/blob/main/todolistApp.png" />
+<img align="center" width="200px" style="padding-right:10px;" src="https://github.com/Merssith/Merssith/blob/main/weatherApp.png" />
 
 #
 
