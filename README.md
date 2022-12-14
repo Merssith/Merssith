@@ -53,5 +53,3 @@ I am looking for a challenging and innovative environment, where I can contribut
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
    I started as a developer in 2014. I was working on backend development with NodeJs technology. Almost without realizing it, my next job was as a Project Manager and eCommerce consultant. From then on, although I was always related to the IT industry, I always held positions such as Delivery manager, project manager, consultant, solution architect. I always made use of my hard knowledge in technology and this year I finally decided to resume my career as a developer.
-
-[website]: https://fkcodes.com
