@@ -47,7 +47,7 @@ I am looking for a challenging and innovative environment, where I can contribut
 
 ### 📊 Stats
 
-![Merssith's GitHub stats](https://github-readme-stats.vercel.app/api?username=merssith&show_icons=true&theme=gruvbox)
+![Merssith's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=merssith&show_icons=true&theme=gruvbox)
 
 #
 
